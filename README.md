@@ -1,5 +1,25 @@
-Official maps for the NationStates [Banaanvraag](https://nationstates.net/region=Banaanvraag) region.
+Official map for the NationStates [Banaanvraag](https://nationstates.net/region=Banaanvraag) region.
 
-Check the [releases](https://github.com/FWDekker/banaanvraag-map/releases) for `.png` and `.svg` versions of the maps.
+## Usage
+To download a `.png` or `.svg` of the map, check the [releases](https://github.com/FWDekker/banaanvraag-map/releases).
 
-`.map` files can be edited with the [Azgaar fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/).
+To edit the map, download [`banaanvraag.map`](https://github.com/FWDekker/banaanvraag-map/blob/main/banaanvraag.map) and open the map using the [Azgaar fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/).
+
+## Limitations
+### Subject to change
+The following are canonical and complete, but may be retconned.
+
+* Height maps
+* Rivers
+
+### Incomplete
+* Capital city names
+* Capital city locations (unless noted otherwise)
+* Non-capital cities
+* Provinces
+
+### Non-canonical
+* Biomes
+* City statistics
+* Climate
+* Diplomacy
