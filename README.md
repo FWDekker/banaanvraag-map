@@ -39,7 +39,7 @@ If you are done editing the map and want to share the file,
 
 ### Colour schemes
 States are coloured according to [Colorcet's Glasbey colourmap](https://colorcet.holoviz.org/user_guide/Categorical.html), which provides 256 distinct colours.
-[You can see the list of colours here.](https://github.com/FWDekker/banaanvraag-map/blob/main/README.md)
+[You can see the list of colours here.](https://github.com/FWDekker/banaanvraag-map/blob/main/resources/glasbey.txt)
 If you add a new state, and there are now `n` states, use the `n`th colour in the set of Colorcet's Glasbey colormap.
 
 
