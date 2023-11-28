@@ -165,7 +165,7 @@
     "opacity": 1,
     "stroke": "#242424",
     "stroke-width": 0.1,
-    "filter": "url(#dropShadow)",
+    "filter": null,
     "auto-filter": 1
   },
   "#lake_island": {
@@ -225,7 +225,7 @@
   "#statesHalo": {
     "opacity": 0.3,
     "data-width": 10,
-    "stroke-width": 10,
+    "stroke-width": 6.52,
     "filter": "blur(3.5px)"
   },
   "#provs": {
@@ -261,12 +261,10 @@
   "#texture": {
     "opacity": 0.4,
     "filter": null,
-    "mask": "url(#land)"
-  },
-  "#textureImage": {
-    "x": 0,
-    "y": 0,
-    "src": "https://i2.wp.com/azgaar.files.wordpress.com/2021/10/plaster.jpg"
+    "mask": "url(#land)",
+    "data-x": 0,
+    "data-y": 0,
+    "data-href": "./images/textures/plaster.jpg"
   },
   "#zones": {
     "opacity": 0.6,
@@ -386,5 +384,19 @@
     "opacity": 1,
     "fill": "#30426f",
     "filter": null
+  },
+  "#vignette": {
+    "opacity": 0.2,
+    "fill": "#000000",
+    "filter": null
+  },
+  "#vignette-rect": {
+    "x": "0.3%",
+    "y": "0.4%",
+    "width": "99.6%",
+    "height": "99.2%",
+    "rx": "5%",
+    "ry": "5%",
+    "filter": "blur(30px)"
   }
 }
